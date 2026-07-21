@@ -9,3 +9,7 @@ print("Branch: feature/valdo")
 print("Git & GitHub practice - July 2026")
 summarize
 practice
+a+b+d=13
+c=sum+1
+print(c)
+
